@@ -1,0 +1,10 @@
+{"timestamp":"2026-03-25T22:54:07.160Z","event":"register","ip":"100.74.99.19","username":"thomastan"}
+{"timestamp":"2026-03-25T23:00:57.615Z","event":"login_success","ip":"100.74.99.19","username":"thomastan"}
+{"timestamp":"2026-03-25T23:30:04.171Z","event":"login_success","ip":"100.74.99.19","username":"thomastan"}
+{"timestamp":"2026-03-25T23:30:47.015Z","event":"cron_toggle","ip":"100.74.99.19","cronId":"5abc0ff0-06ac-4fdd-b4b8-b9ba202ac402","enabled":false}
+{"timestamp":"2026-03-25T23:30:49.915Z","event":"cron_toggle","ip":"100.74.99.19","cronId":"5abc0ff0-06ac-4fdd-b4b8-b9ba202ac402","enabled":true}
+{"timestamp":"2026-03-25T23:32:56.495Z","event":"reauth_success","ip":"100.74.99.19"}
+{"timestamp":"2026-03-25T23:32:59.929Z","event":"sys_security_view","ip":"100.74.99.19"}
+{"timestamp":"2026-03-25T23:33:01.094Z","event":"config_read","ip":"100.74.99.19"}
+{"timestamp":"2026-03-25T23:33:02.319Z","event":"docker_view","ip":"100.74.99.19"}
+{"timestamp":"2026-03-25T23:44:39.573Z","event":"login_success","ip":"100.74.99.19","username":"thomastan"}
